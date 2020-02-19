@@ -1,0 +1,15 @@
+body{
+    font-family: serif;
+
+}
+
+h1{
+    font-size: 2rem;
+    color: grey;
+    text-decoration: underline;
+}
+
+ul{
+    padding: 10px;
+    border: 1 px dashed black
+}
